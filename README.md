@@ -38,6 +38,7 @@
 
 - - -
 
-## 相关资料 Zhihu
+## 相关资料 Others
 
 - [自然语言处理怎么最快入门](https://www.zhihu.com/question/19895141)
+
