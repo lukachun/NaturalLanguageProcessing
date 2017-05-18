@@ -1,5 +1,5 @@
 # Natural Language Processing
-**自然语言处理板块
+** 自然语言处理板块
 - - -
 
 ##  预备知识 Prerequisite
@@ -40,7 +40,7 @@
  ## 论文 Paper
  
  - [word2vec](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-
+ - UCSB 王威廉教授推荐的一些经典论文列表：http://william.cs.ucsb.edu/courses/index.php/Group_Reading_S17 http://william.cs.ucsb.edu/courses/index.php/Group_Reading_F16
 - - -
 
 ## 相关资料 Zhihu
